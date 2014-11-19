@@ -7,6 +7,16 @@
 [![Build Status](https://travis-ci.org/angular-ui/angular-google-maps.png?branch=master)](https://travis-ci.org/angular-ui/angular-google-maps)
 
 [![Gitter chat](https://badges.gitter.im/angular-ui/angular-google-maps.png)](https://gitter.im/angular-ui/angular-google-maps)
+
+
+
+## Attention forkers!
+*This is the old and ancient repository for angular-google-maps!*
+
+*If you want to contribute, please fork [angular-ui/angular-google-maps](https://github.com/angular-ui/angular-google-maps) instead.*
+
+
+
 ##What is new (1.2.X):
 
 With the minor release of 1.2.0 (which is why it is a minor) there are a few breaking changes:
